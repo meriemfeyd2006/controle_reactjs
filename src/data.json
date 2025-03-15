@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Développement Frontend",
+    "description": "Création des interfaces utilisateur en React.js.",
+    "salaire": "8000 DH",
+    "img": "frontend.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Développement Backend",
+    "description": "Mise en place d'API avec Laravel.",
+    "salaire": "8500 DH",
+    "img": "backend.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Design UI/UX",
+    "description": "Conception graphique et amélioration de l'expérience utilisateur.",
+    "salaire": "7000 DH",
+    "img": "design.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Gestion de Projet",
+    "description": "Suivi et coordination des équipes techniques.",
+    "salaire": "9000 DH",
+    "img": "gestion.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Analyste Fonctionnel",
+    "description": "Analyse des besoins clients et rédaction des spécifications.",
+    "salaire": "7500 DH",
+    "img": "analyste.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Administrateur Système",
+    "description": "Gestion et maintenance des serveurs.",
+    "salaire": "8000 DH",
+    "img": "systeme.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Développeur Mobile",
+    "description": "Création d'applications pour Android et iOS.",
+    "salaire": "8500 DH",
+    "img": "mobile.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Chef d'Équipe",
+    "description": "Encadrement des développeurs et gestion des tâches.",
+    "salaire": "9500 DH",
+    "img": "chef-equipe.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Testeur QA",
+    "description": "Validation et tests des fonctionnalités développées.",
+    "salaire": "7000 DH",
+    "img": "qa.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Rédacteur Technique",
+    "description": "Création de documentation technique pour les produits.",
+    "salaire": "6000 DH",
+    "img": "redacteur.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Architecte Logiciel",
+    "description": "Conception de l'architecture des applications.",
+    "salaire": "10000 DH",
+    "img": "architecte.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Spécialiste Cybersécurité",
+    "description": "Protection des systèmes contre les attaques.",
+    "salaire": "11000 DH",
+    "img": "cybersecurite.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Consultant IT",
+    "description": "Proposition de solutions techniques aux clients.",
+    "salaire": "9000 DH",
+    "img": "consultant.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Responsable Marketing",
+    "description": "Création et mise en œuvre des campagnes marketing numériques.",
+    "salaire": "8000 DH",
+    "img": "marketing.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Data Analyst",
+    "description": "Analyse et interprétation des données pour les rapports.",
+    "salaire": "8500 DH",
+    "img": "data-analyst.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Développeur Fullstack",
+    "description": "Travail sur les parties frontend et backend.",
+    "salaire": "9000 DH",
+    "img": "fullstack.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Spécialiste SEO",
+    "description": "Optimisation des sites pour les moteurs de recherche.",
+    "salaire": "7500 DH",
+    "img": "seo.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Ingénieur DevOps",
+    "description": "Automatisation et optimisation des pipelines de développement.",
+    "salaire": "9500 DH",
+    "img": "devops.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Support Technique",
+    "description": "Assistance aux utilisateurs et résolution des problèmes techniques.",
+    "salaire": "7000 DH",
+    "img": "support.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Formateur IT",
+    "description": "Formation des équipes sur les nouvelles technologies.",
+    "salaire": "7500 DH",
+    "img": "formateur.jpg"
+  }
+]
